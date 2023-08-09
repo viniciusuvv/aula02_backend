@@ -1,0 +1,14 @@
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\bin\Debug\net6.0\aula02_backend.exe
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\bin\Debug\net6.0\aula02_backend.deps.json
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\bin\Debug\net6.0\aula02_backend.runtimeconfig.json
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\bin\Debug\net6.0\aula02_backend.dll
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\bin\Debug\net6.0\aula02_backend.pdb
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.AssemblyInfoInputs.cache
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.AssemblyInfo.cs
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.dll
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\refint\aula02_backend.dll
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.pdb
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\aula02_backend.genruntimeconfig.cache
+C:\Users\Vinícius\OneDrive\UVV\2023-2\Ead\Desenvolvimento Web - Back End\Códigos\aula02_backend\aula02_backend\obj\Debug\net6.0\ref\aula02_backend.dll
